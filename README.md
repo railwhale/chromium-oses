@@ -9,8 +9,8 @@ If you know of a Chromium OS fork not on this list, you can open a issue with th
 #### Comment:  
 Name: OS name  
 Website: OS homepage/git repo  
-Architectures: Supported architectures
-Features: Some notable features of the fork
+Architectures: Supported architectures  
+Features: Some notable features of the fork  
 
 \* Technically all I need is the name, but please be nice and don't make me do all the work.  
 ** Also, feel free to create the entire entry if you like.
@@ -20,8 +20,8 @@ This list is in alphabetical order
 
 ### Arnoldthebat Chromium OS builds
 Name: Chromium OS  
-Homepage: [arnoldthebat.co.uk](https://arnoldthebat.co.uk)
-Architectures:
-Notable feature
+Homepage: [arnoldthebat.co.uk](https://arnoldthebat.co.uk)  
+Architectures:  
+Notable features:  
 
 NOTE: I know of FlintOS, FydeOS, Thorium OS, openfyde, gallium os, ubuntu web, I just haven't 
