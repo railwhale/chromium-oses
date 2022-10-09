@@ -2,7 +2,7 @@
 
 # Chromium Based OSes
 This repository aims to be a catalogue and index of operating systems based on Chromium OS, so you can can see information like device support, features, and downloads, so you can decide what Chrom* OS is right for you.  
-See [contributing.md](/contributing.md)
+See [contributing.md](/contributing.md) for how to add an entry to the list
 
 # List:
 This list is in alphabetical order
