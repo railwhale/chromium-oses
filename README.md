@@ -9,23 +9,25 @@ This list is in alphabetical order
 
 ### Arnoldthebat Chromium OS builds
 Name: Chromium OS  
-Homepage: [arnoldthebat.co.uk](https://arnoldthebat.co.uk/wordpress/chromium-os/) 
-Download:  
-Architectures:  
+Homepage: [arnoldthebat.co.uk](https://arnoldthebat.co.uk/wordpress/chromium-os/)  
+Download:  [chromium.arnoldthebat.co.uk/](https://chromium.arnoldthebat.co.uk/)
+Architectures: x86, x64,
 Notable features:  
 
 ### Flint OS
+Name:  
 
 # Not Chromium OSes:
 These entries are not based on Chromium OS, however, they are web-centric OSes, and this is my list
+
 
 ### Gallium OS
 IMPORTANT: Development of Gallium OS has been discontinued, so hardware support will be limited
 Name: Gallium OS
 Homepage: [galliumos.org](https://galliumos.org/)
 Download: [galliumos.org/download](https://galliumos.org/download)
-Architectures: x86
-Desktop: xfce
+Architectures: x86_64  
+Desktop: xfce  
 Notable features: Chromium OS kernel, based on xubuntu, other special fixes for Chromebooks/Chromeboxes
 
 
@@ -33,7 +35,7 @@ Notable features: Chromium OS kernel, based on xubuntu, other special fixes for 
 Name: Ubuntu Web
 Homepage: [ubuntu-web.org](https://ubuntu-web.org)  
 Download: [ubuntu-web.org/download](https://ubuntu-web.org/download)  
-Architectures: x86  
+Architectures: x86_64  
 Desktop: Based on Unity  
 Notable features: /e/ app store, firefox or brave browsers
 
